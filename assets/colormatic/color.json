@@ -1,0 +1,19 @@
+{
+  "screen": {
+    "loading": "a4b6ef",
+    "loading.bar": "a4b6ef"
+  },
+  "particle": {
+    "portal": "a4b6ef"
+  },
+  "collar": {
+    "light_blue": "a4b6ef"
+  },
+  "sheep":{
+    "light_blue": "a4b6ef"
+  },
+  "text": {
+    "xpbar": "596cd5"
+  }
+    
+}
